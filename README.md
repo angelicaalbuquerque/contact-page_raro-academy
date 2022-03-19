@@ -22,7 +22,7 @@
 
 ## 📚 Sobre
 
-Criação de página de contatos para treinar conhecimentos de HTML, CSS e componentização durante a Imersão React, bootcamp da Raro Academy, onde são passados os fundamentos da programação front-end e como utilizar a biblioteca.
+Criação de página de contatos (cujo layout está [aqui](https://raro-academy-react.web.app/#/aulas/lab_2?id=lab-2-tudo-que-vimos-at%c3%a9-agora)) para treinar conhecimentos de HTML, CSS e componentização durante a Imersão React, bootcamp da Raro Academy, onde são passados os fundamentos da programação front-end e como utilizar a biblioteca.
 
 Veja o repositório do curso [aqui](https://github.com/angelicaalbuquerque/react_raro-academy).
 
