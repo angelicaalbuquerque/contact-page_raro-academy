@@ -1,0 +1,125 @@
+/* RESET CSS */
+* {
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li,
+a {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #4d77ff;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* ESTILOS GERAIS */
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px 40px;
+}
+
+/* header */
+.title {
+  color: #f2fa5a;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  border: none;
+  border-radius: 48px;
+  background-color: #f2fa5a;
+  color: rgb(118, 118, 118);
+  padding: 10px 80px;
+  font-size: 1.25rem;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 48px;
+}
+
+/* Main - Card */
+
+.card {
+  background-color: #56bbf1;
+  border-radius: 10px;
+  padding: 16px 24px;
+  margin-bottom: 24px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-info {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.card-detail {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 24px;
+}
+
+.card-title {
+  color: #f2fa5a;
+}
+
+.card-occupation {
+  color: #f4bbbb;
+  font-weight: bold;
+}
+
+.card-contacts {
+  gap: 8px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn-secondary {
+  border: 1px solid #f2fa5a;
+  border-radius: 8px;
+  background-color: #5de7ee;
+  color: #f2fa5a;
+  padding: 10px 10px;
+  font-size: 1rem;
+}
+
+.content-info p {
+  color: #f2fa5a;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.content-info p:hover {
+  text-decoration: underline;
+}
