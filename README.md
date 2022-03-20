@@ -1,5 +1,5 @@
 <h2 align="center">
-  Mini-curriculo | Raro Academy
+  Component Maker - Agenda | Raro Academy
 </h2>
 
 <p align="center">
